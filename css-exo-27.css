@@ -1,0 +1,23 @@
+td {
+    width: 40px;
+    height: 20px;
+}
+.tab01{
+    border-collapse: separate;
+    empty-cells: hide;
+}
+.tab02{
+    caption-side: bottom;
+    border-collapse: separate;
+    empty-cells: show;
+}
+.tab03{
+    caption-side: top;
+    border-collapse: collapse;
+    empty-cells: show;
+}
+.tab04{
+    caption-side: bottom;
+    border-collapse: collapse;
+    empty-cells: hide;
+}
